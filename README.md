@@ -1,2 +1,2 @@
 # p5comfy_Experiments
- Some experiemention with p5 and comfy for Twitch
+ Experimentation with p5 and comfy for Twitch. Simple animations with event triggers.
