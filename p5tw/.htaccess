@@ -1,0 +1,5 @@
+<FilesMatch "(song.php|cover.php)">
+  Order deny,allow
+  Allow from 127.0.0.1
+  Deny from all
+</FilesMatch>
